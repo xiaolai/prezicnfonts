@@ -22,4 +22,4 @@
 
 字体文件对应的字体如下：
 
-![](images/fontlist.png)
+![](images/fontslist.png)
